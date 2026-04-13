@@ -19,6 +19,8 @@ public class Q1080 {
             }
         }
 
+        input.close();
+
         System.out.println(maior);
         System.out.println(posicao);
 
